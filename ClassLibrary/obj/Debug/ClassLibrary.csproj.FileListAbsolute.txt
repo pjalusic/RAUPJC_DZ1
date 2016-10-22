@@ -1,0 +1,5 @@
+D:\Škola\5. semestar\C#\Projects\PrvaDZ\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\Škola\5. semestar\C#\Projects\PrvaDZ\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Škola\5. semestar\C#\Projects\PrvaDZ\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+D:\Škola\5. semestar\C#\Projects\PrvaDZ\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\Škola\5. semestar\C#\Projects\PrvaDZ\ClassLibrary\obj\Debug\ClassLibrary.pdb

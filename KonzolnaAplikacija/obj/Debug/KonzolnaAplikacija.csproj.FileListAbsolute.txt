@@ -1,0 +1,8 @@
+D:\Škola\5. semestar\C#\Projects\PrvaDZ\KonzolnaAplikacija\bin\Debug\KonzolnaAplikacija.exe.config
+D:\Škola\5. semestar\C#\Projects\PrvaDZ\KonzolnaAplikacija\bin\Debug\KonzolnaAplikacija.exe
+D:\Škola\5. semestar\C#\Projects\PrvaDZ\KonzolnaAplikacija\bin\Debug\KonzolnaAplikacija.pdb
+D:\Škola\5. semestar\C#\Projects\PrvaDZ\KonzolnaAplikacija\obj\Debug\KonzolnaAplikacija.exe
+D:\Škola\5. semestar\C#\Projects\PrvaDZ\KonzolnaAplikacija\obj\Debug\KonzolnaAplikacija.pdb
+D:\Škola\5. semestar\C#\dz\RAUPJC_DZ1\KonzolnaAplikacija\bin\Debug\KonzolnaAplikacija.exe.config
+D:\Škola\5. semestar\C#\dz\RAUPJC_DZ1\KonzolnaAplikacija\obj\Debug\KonzolnaAplikacija.exe
+D:\Škola\5. semestar\C#\dz\RAUPJC_DZ1\KonzolnaAplikacija\obj\Debug\KonzolnaAplikacija.pdb
